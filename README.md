@@ -1,17 +1,25 @@
-- Nama : Ramdhan Syaifulloh 
-- NIM  : 311910014
-- Kelas : TI.19.D4
+- Nama  : MUFLIH FURQONUDIN FAHRI
+- NIM   : 312010105
+- Kelas : TI. 20.D1
+
+
 
 ### Output Dari codingan:
 - Tampilan Splaschscreen
 ![gambar](ss/splascreen.png)
 
 
-- Tampilan recyclerView
+- Tampilan Login
 
 ![gambar](ss/ss3.png)
 
 
-- Tampilan Profile
+- Tampilan Register
 
 ![gambar](ss/ss4.png)
+
+- Tampilan Home
+
+![gambar](ss/ss4.png)
+
+
